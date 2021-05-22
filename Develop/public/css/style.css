@@ -1,4 +1,4 @@
-header, .project:not(:last-child) {
+header, .blog:not(:last-child) {
     border-bottom: 1px solid #ccc;
   }
   
@@ -16,3 +16,11 @@ header, .project:not(:last-child) {
     color: #065b83;
     text-decoration: underline;
   }
+
+  header {
+    background-color: rgba(8, 56, 59, 0.5);
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #20475a;
+}
